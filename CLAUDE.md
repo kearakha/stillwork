@@ -10,3 +10,6 @@ Reference all files in `.docs/` folder as the source of truth.
 ## Project Context
 Stillwork is a focus music timer app with liquid glass aesthetics (dark mode only).
 Core loop: pick duration → pick sound → start → work → notification.
+
+## Konteks Tambahan
+Baca ~/Documents/Nexus/CLAUDE.md dan folder terkait di 01-Projects/ atau 02-Areas/ untuk konteks personal & riwayat kerja. Kalau note project ini belum ada di Nexus, buatkan.
